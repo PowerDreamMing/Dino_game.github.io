@@ -15,7 +15,7 @@
 
 # Dino_game.github.io
 
-https://powerdreamming.github.io/Pie-Charts.github.io/Pie-Charts/index.html
+https://powerdreamming.github.io/Dino_game.github.io/CSS%20Dino%20game/001.html
 
 ![ScreenGif](https://user-images.githubusercontent.com/109954610/215253963-1bea5aa1-cbe6-45f2-9666-4a3c2c89b583.gif)
 
